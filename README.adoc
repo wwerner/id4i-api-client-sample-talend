@@ -46,13 +46,13 @@ image::img/id4i-talend-run.png[]
 
 . In case your talend installation misses any of the required libraries, you can get them from your local maven repository or from http://search.maven.org/
 
-.If you did not activate the API key messed up creating the JWT, an error
+. If you did not activate the API key messed up creating the JWT, an error
 +
 image::img/id4i-talend-error.png[]
 
 . Otherwise: Fame & Profit
 +
-image::img/id4i-talend-metadata.png[]
+image::img/id4i-talend-result.png[]
 
 
 == Support
