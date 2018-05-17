@@ -52,7 +52,7 @@ image::img/id4i-talend-error.png[]
 
 . Otherwise: Fame & Profit
 +
-image::img/id4i-talend-metadata.png[]
+image::img/id4i-talend-result.png[]
 
 
 == Support
