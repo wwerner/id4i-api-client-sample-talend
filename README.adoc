@@ -38,7 +38,7 @@ Please refer to http://id4i.de on how to register and https://backend.id4i.de/do
 
 . Import the project from this repository into TOS
 +
-image::img/id4i-talend-metadata.png[]
+image::img/id4i-talend-import_1.png[]
 
 . Run the project, enter the API key and secret you created in ID4i
 +
